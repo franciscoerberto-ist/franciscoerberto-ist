@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:00B4D8&height=200&section=header&text=Francisco%20Erberto&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Digital%20Transformation%20%7C%20Robotics%20SLAM&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:00B4D8&height=220&section=header&text=Francisco%20Erberto&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Digital%20Transformation%20%7C%20Robotics%20SLAM&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Pesquisador+%26+Tech+Lead+%40+SENAI+IST;Data+Science+%7C+Machine+Learning+%7C+AI;Robotics+SLAM+%7C+ROS+%7C+Autonomous+Navigation;IIoT+%7C+OPC+UA+%7C+Industry+4.0;Digital+Transformation+%7C+Smart+Manufacturing)](https://git.io/typing-svg)
 
 <br/>
 
@@ -76,53 +80,72 @@ Controle de manipuladores
 
 ### 💻 Linguagens de Programação
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,bash,r&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ### 📊 Ciência de Dados & IA
 
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,jupyter,kafka&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🦾 Robótica & SLAM
 
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ros,arduino,raspberrypi,linux,cmake&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![OPC UA](https://img.shields.io/badge/OPC_UA-005C99?style=for-the-badge&logoColor=white)
 
 ### 🏭 Transformação Digital & IIoT
 
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=docker,grafana,postgres,redis,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🌐 Web & Visualização
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,html,css&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=franciscoerberto-ist&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -130,14 +153,62 @@ Controle de manipuladores
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=franciscoerberto-ist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1B2A&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoerberto-ist&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=00B4D8&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=franciscoerberto-ist&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1B2A&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoerberto-ist&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=00B4D8&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=franciscoerberto-ist&theme=tokyonight&hide_border=true&background=0D1B2A&stroke=00B4D8&ring=00B4D8&fire=FF6F00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=AAAAAA)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+[![Francisco's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=franciscoerberto-ist&theme=tokyo-night&bg_color=0D1B2A&color=00B4D8&line=1B4F72&point=00B4D8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📋 Profile Summary Cards
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciscoerberto-ist&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franciscoerberto-ist&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franciscoerberto-ist&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franciscoerberto-ist&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franciscoerberto-ist&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+## 🐍 Snake Game — Contribution Grid
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franciscoerberto-ist/franciscoerberto-ist/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franciscoerberto-ist/franciscoerberto-ist/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/franciscoerberto-ist/franciscoerberto-ist/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
